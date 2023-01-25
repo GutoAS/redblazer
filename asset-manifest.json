@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/redblazer/static/css/main.9cd88180.css",
-    "main.js": "/redblazer/static/js/main.7cf911fd.js",
+    "main.js": "/redblazer/static/js/main.4b113510.js",
     "static/media/comingsoon.png": "/redblazer/static/media/comingsoon.5afa5148125daad53ac3.png",
     "static/media/monitor.png": "/redblazer/static/media/monitor.bc6ad35243dbdfadb693.png",
     "static/media/test_tubes.png": "/redblazer/static/media/test_tubes.cf70a7eda9279f58bcfc.png",
@@ -10,10 +10,10 @@
     "static/media/redblazer.png": "/redblazer/static/media/redblazer.0cfc3855010f39435a60.png",
     "index.html": "/redblazer/index.html",
     "main.9cd88180.css.map": "/redblazer/static/css/main.9cd88180.css.map",
-    "main.7cf911fd.js.map": "/redblazer/static/js/main.7cf911fd.js.map"
+    "main.4b113510.js.map": "/redblazer/static/js/main.4b113510.js.map"
   },
   "entrypoints": [
     "static/css/main.9cd88180.css",
-    "static/js/main.7cf911fd.js"
+    "static/js/main.4b113510.js"
   ]
 }
